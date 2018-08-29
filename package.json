@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-cli": "^1.3.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-file-dependencies": "^1.0.2"
+  },
+  "name": "test",
+  "version": "1.0.0",
+  "main": "Gruntfile.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "K.Takashi",
+  "license": "MIT",
+  "description": "grunt file dependencies sample"
+}
